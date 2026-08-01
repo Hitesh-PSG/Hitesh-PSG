@@ -2,128 +2,84 @@
 
 Backend Engineer • Distributed Systems • Cloud Infrastructure • AI Engineering
 
-I build backend systems, cloud-native applications, and AI-powered software with a focus on scalability, reliability, and maintainability. My interests span distributed systems, DevOps, system design, and production-grade AI applications, with an emphasis on solving real-world engineering problems.
+I build backend systems, cloud-native applications, and AI-powered software with a focus on scalability, reliability, and maintainability. My interests include distributed systems, backend architecture, cloud infrastructure, DevOps, and production AI applications.
 
 ## Areas of Interest
 
 - Backend Engineering
 - Distributed Systems
+- Cloud Infrastructure
+- Platform Engineering
 - System Design (LLD & HLD)
-- Cloud Computing
-- DevOps & Platform Engineering
 - AI Engineering
-- Generative AI & LLMs
+- Generative AI
+- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 
-## Experience
+## Professional Experience
 
-My work includes designing and developing backend services, APIs, and full-stack applications while exploring production architectures and cloud-native technologies.
+### Software Development Engineer Intern — Qurofy Healthcare
 
-### Backend
+Worked on engineering and scaling healthcare applications used by clinics and healthcare professionals.
 
-- FastAPI
-- Node.js
-- Express.js
-- REST APIs
-- Authentication & Authorization
-- Microservices
+#### Backend Engineering
 
-### Cloud & Infrastructure
+- Built REST APIs using FastAPI.
+- Designed and optimized backend workflows for clinical applications.
+- Implemented authentication and authorization using JWT.
+- Designed scalable database models and API architecture.
+- Improved API performance through query optimization and backend refactoring.
 
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- Jenkins
-- Linux
-- Nginx
-- Apache
+#### AI Engineering
 
-### Data
+- Built clinical AI workflows using Large Language Models.
+- Developed Retrieval-Augmented Generation (RAG) pipelines.
+- Integrated Open Concept Lab (OCL) for ICD-11 terminology mapping.
+- Implemented vector search using Qdrant.
+- Worked on AI-assisted diagnosis retrieval and medical coding workflows.
 
-- PostgreSQL
-- MySQL
-- MongoDB
-- Firebase
-- Supabase
+#### Product Engineering
 
-### AI
+- Built doctor scheduling and appointment management modules.
+- Implemented clinic management workflows.
+- Developed reusable frontend components using React.
+- Integrated backend services with modern frontend applications.
 
-- LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning
-- Data Processing
-- Prompt Engineering
-- Vector Search
+#### Infrastructure & DevOps
+
+- Containerized applications using Docker.
+- Worked with AWS services including ECR and S3.
+- Configured CI/CD pipelines.
+- Worked with Linux environments for deployment and debugging.
+
+---
 
 ## Hackathon Achievements
 
-| Competition | Achievement | Project |
-|-------------|------------|---------|
-| Build for Bengaluru Hackathon (2025) | Winner | — |
-| AlgoHack Web3 (2025) | 2nd Runner-Up | — |
-| AI & Data Science Codeathon (2024) | 2nd Runner-Up | CreditWorthy |
-| amBITon Hackathon (2024) | 2nd Runner-Up | NetWorthy |
+| Competition | Achievement |
+|-------------|------------|
+| Build for Bengaluru Hackathon (2025) | Winner |
+| AlgoHack Web3 (2025) | 2nd Runner-Up |
+| AI & Data Science Codeathon (2024) | 2nd Runner-Up |
+| amBITon Hackathon (2024) | 2nd Runner-Up |
 
-These experiences strengthened my ability to design software under time constraints, collaborate within teams, and deliver production-ready solutions.
+---
 
 ## Technology Stack
 
-### Languages
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python • JavaScript • TypeScript • C++ • SQL |
+| **Backend** | FastAPI • Node.js • Express.js • REST APIs |
+| **Frontend** | React • Next.js • Tailwind CSS |
+| **Databases** | PostgreSQL • MongoDB • MySQL • Firebase • Supabase |
+| **Cloud** | AWS • Docker • Kubernetes • Terraform |
+| **DevOps** | Jenkins • GitHub Actions • Linux • Nginx • Apache |
+| **AI / ML** | LLMs • RAG • Qdrant • Pandas • NumPy • Scikit-learn |
 
-- Python
-- JavaScript
-- TypeScript
-- C++
-- SQL
-- HTML
-- CSS
-
-### Frameworks
-
-- FastAPI
-- React
-- Next.js
-- Node.js
-- Express.js
-- Tailwind CSS
-- Bootstrap
-
-### Cloud & DevOps
-
-- AWS
-- Docker
-- Kubernetes
-- Jenkins
-- Terraform
-- Git
-- GitHub
-- Linux
-
-### Databases
-
-- MongoDB
-- MySQL
-- Firebase
-- Supabase
-
-### AI & Data
-
-- NumPy
-- Pandas
-- Scikit-learn
+---
 
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/hitesh-p-aa55662a3
 - Email: hiteshpg24@gmail.com
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hitesh-PSG&show_icons=false&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-PSG&layout=compact&hide_border=true)
-
----
-
-*"Build software that is simple to understand, reliable to operate, and scalable to evolve."*
