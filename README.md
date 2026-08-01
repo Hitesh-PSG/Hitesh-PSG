@@ -4,55 +4,15 @@ Backend Engineer • Distributed Systems • Cloud Infrastructure • AI Enginee
 
 I build backend systems, cloud-native applications, and AI-powered software with a focus on scalability, reliability, and maintainability. My interests include distributed systems, backend architecture, cloud infrastructure, DevOps, and production AI applications.
 
-## Areas of Interest
-
-- Backend Engineering
-- Distributed Systems
-- Cloud Infrastructure
-- Platform Engineering
-- System Design (LLD & HLD)
-- AI Engineering
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-
 ## Professional Experience
 
 ### Software Development Engineer Intern — Qurofy Healthcare
 
-Worked on engineering and scaling healthcare applications used by clinics and healthcare professionals.
+Contributed to the development of a cloud-native healthcare platform by building scalable backend services, AI-powered clinical workflows, and production-ready features for healthcare providers. Worked across the application stack using FastAPI, React, PostgreSQL, and AWS while collaborating on system design, API development, and infrastructure improvements.
 
-#### Backend Engineering
+My work included developing RESTful APIs, designing backend architectures, implementing secure authentication, optimizing database queries, and building appointment scheduling and clinic management workflows. I also contributed to AI-driven healthcare solutions by integrating Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Open Concept Lab (OCL), and Qdrant to support clinical terminology mapping and intelligent diagnosis retrieval.
 
-- Built REST APIs using FastAPI.
-- Designed and optimized backend workflows for clinical applications.
-- Implemented authentication and authorization using JWT.
-- Designed scalable database models and API architecture.
-- Improved API performance through query optimization and backend refactoring.
-
-#### AI Engineering
-
-- Built clinical AI workflows using Large Language Models.
-- Developed Retrieval-Augmented Generation (RAG) pipelines.
-- Integrated Open Concept Lab (OCL) for ICD-11 terminology mapping.
-- Implemented vector search using Qdrant.
-- Worked on AI-assisted diagnosis retrieval and medical coding workflows.
-
-#### Product Engineering
-
-- Built doctor scheduling and appointment management modules.
-- Implemented clinic management workflows.
-- Developed reusable frontend components using React.
-- Integrated backend services with modern frontend applications.
-
-#### Infrastructure & DevOps
-
-- Containerized applications using Docker.
-- Worked with AWS services including ECR and S3.
-- Configured CI/CD pipelines.
-- Worked with Linux environments for deployment and debugging.
-
----
+In addition to application development, I worked on containerized deployments with Docker, cloud services on AWS, CI/CD automation, and Linux-based environments to improve deployment reliability, system performance, and operational efficiency.
 
 ## Hackathon Achievements
 
